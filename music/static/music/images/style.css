@@ -1,0 +1,10 @@
+body{
+    background:ghostwhite url("patterns_4.jpg") ;
+}
+
+.navbar{
+    border-radius: 0;
+}
+.navbar-brand{
+    font-family: 'Satisfy',cursive;
+}
