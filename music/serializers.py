@@ -1,4 +1,4 @@
-from rest_framework import serializers
+import django.rest_framework
 from .models import Album,Song
 
 class AlbumSerializer(serializers.ModelSerializer):
